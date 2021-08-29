@@ -1,0 +1,113 @@
+<mjml lang="en">
+  <mj-head>
+    <mj-title>
+      New Marketing Anouncements
+    </mj-title>
+    <mj-preview>
+      Lamaj's Sushi
+    </mj-preview>
+    <mj-style>
+      
+  u + #body a,
+  #MessageViewBody a,
+  a[x-apple-data-detectors] {
+    color: inherit !important;
+    text-decoration: none !important;
+    font-size: inherit !important;
+    font-family: inherit !important;
+    font-weight: inherit !important;
+    line-height: inherit !important;
+  }
+  
+  u + .body .glist { margin-left: 0 !important; } 
+  
+  @media only screen and (max-width:484px) {
+    u + .body .glist { margin-left: 25px !important; }
+    td.txt { padding-left: 0!important; padding-right: 0!important; }
+    img.fluid { max-width: 100%!important; height: auto!important; }
+    br.sb { display: none!important; }
+    .hd-1 { display: block!important; height: auto!important; overflow: visible!important; }
+    div.hro.pt-44 > table > tbody > tr > td { padding-top:44px!important }div.hro.pr-16 > table > tbody > tr > td { padding-right:16px!important }div.hro.pb-44 > table > tbody > tr > td { padding-bottom:44px!important }div.hro.pl-16 > table > tbody > tr > td { padding-left:16px!important }div.hro.s-12 > table > tbody > tr > td > div > table > tbody > tr > td > table > tbody > tr > td.m { padding-top:0!important; padding-right:0!important; padding-bottom:12px!important; padding-left:0!important; }td.txt.fs-34 > div > span, td.txt.fs-34 > div li span, td.txt.fs-34 > div { font-size:34px!important }td.txt.lh-40 > div > span, td.txt.lh-40 > div li span, td.txt.lh-40 > div { line-height:40px!important }td.txt.ls--1 > div > span, td.txt.ls--1 > div li span, td.txt.ls--1 > div { letter-spacing:-1px!important }.hm-1 { display: none!important; max-width: 0!important; max-height: 0!important; overflow: hidden!important; mso-hide: all!important; }td.btn.fw-1 > table { width:100%!important } td.fw-1 > table > tbody > tr > td > a { display: block!important; width: 100%!important; padding-left: 0!important; padding-right: 0!important; }
+    td.btn.fw-1 > table { width:100%!important } td.fw-1 > table > tbody > tr > td { width: 100%!important; padding-left: 0!important; padding-right: 0!important; }div.sct.pr-16 > table > tbody > tr > td { padding-right:16px!important }div.sct.pl-16 > table > tbody > tr > td { padding-left:16px!important }td.txt.al-l > div { text-align: left!important }td.nvb.s-8 > div.mj-inline-links > a.nbl.m { padding-right:8px!important; }
+  
+  }
+    </mj-style>
+    <mj-attributes>
+      <mj-all font-family="Arial, sans-serif"></mj-all>
+    </mj-attributes>
+    <mj-breakpoint width="484px"></mj-breakpoint>
+    <mj-font href="https://fonts.googleapis.com/css?family=Roboto:700,400" name="Roboto"></mj-font>
+    <mj-style inline="inline">
+      .hd-1, .ds-1 { mso-hide: all; display: none; height: 0; overflow: hidden; } .hd-1, .ds-1 * { mso-hide: all; }
+    </mj-style>
+    <mj-raw>
+      
+    <meta name="color-scheme" content="light dark"><meta name="supported-color-schemes" content="light dark">
+    <!--[if gte mso 9]>
+    <style>
+    li {
+        text-indent: -1em;
+    }
+    </style>
+    <![endif]-->
+    </mj-raw>
+  </mj-head>
+  <mj-body background-color="#e5e5e5" width="485px">
+    <mj-hero background-color="#FFFFFF" background-height="316px" background-url="img/76d7f34cf96df28e4bb05b46fe8a8cf1.jpg" background-width="485px" css-class="hro  pt-44 pr-16 pb-44 pl-16 s-12 " height="316px" mode="fixed-height" padding="16px 32px 16px 32px" vertical-align="middle">
+      <mj-text align="center" css-class="txt  fs-34 lh-40 ls--1 m" font-family="Roboto, Arial, sans-serif" font-size="50px" line-height="59px" padding-bottom="6px" padding="0px 34px 0px 66px">
+        <p style="Margin:0;"><span style="mso-line-height-rule: exactly;font-size:50px;font-family:Roboto, Arial, sans-serif;font-weight:700;color:#ffffff;line-height:59px;">Lamaj’s Sushi</span></p>
+      </mj-text>
+      <mj-text align="center" css-class="txt  hm-1 m" font-family="Roboto, Arial, sans-serif" font-size="16px" line-height="22px" padding-bottom="6px" padding="0px 0px 0px 0px">
+        <p style="Margin:0;"><span style="mso-line-height-rule: exactly;font-size:16px;font-family:Roboto, Arial, sans-serif;font-weight:400;color:#ffffff;line-height:22px;">Far from your standard takeaway sushi hand rolls, Sushi Jiro brings carefully handcrafted, and traditional sushi with a creative flair.</span></p>
+      </mj-text>
+      <mj-button align="center" background-color="transparent" border-radius="60px 60px 60px 60px" border="1px solid #fefdfd" css-class="btn  fw-1 " font-family="Roboto, Arial, sans-serif" href="https://www.youtube.com/watch?v=ExHOGma4eqc" inner-padding="12px 0px 12px 0px" line-height="100%" padding-bottom="0" padding="0" vertical-align="middle" width="143px">
+        <span style="mso-line-height-rule: exactly;font-size:18px;font-family:Roboto, Arial, sans-serif;font-weight:700;color:#fffbfb;line-height:21px;">Book Now</span>
+      </mj-button>
+    </mj-hero>
+    <mj-section background-color="#ffffff" border-radius="0" border="none" css-class="sct  sk pr-16 pl-16 " padding="32px 32px 32px 32px" text-align="left">
+      <mj-column background-color="transparent" border="none" css-class="cl  " vertical-align="middle" width="421px">
+        <mj-text align="center" css-class="txt  al-l m" font-family="Roboto, Arial, sans-serif" font-size="28px" line-height="32px" padding-bottom="8px" padding="0px 0px 0px 0px">
+          <p style="Margin:0;"><span style="mso-line-height-rule: exactly;font-size:28px;font-family:Roboto, Arial, sans-serif;font-weight:700;color:#000000;line-height:32px;">Experience our sushi bar</span></p>
+        </mj-text>
+        <mj-text align="center" css-class="txt  " font-family="Roboto, Arial, sans-serif" font-size="16px" line-height="24px" padding-bottom="0" padding="0px 0px 0px 0px">
+          <p style="Margin:0;"><span style="mso-line-height-rule: exactly;font-size:16px;font-family:Roboto, Arial, sans-serif;font-weight:400;color:#777777;line-height:24px;">Our sushi bar has some amazing sushi with great variety, as well as dishes from other Asian regions including Korea, Japan, Thailand and Cambodia. We get our ingredients from local producers whenever possible.</span></p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0">
+      <mj-column padding="0">
+        <mj-image align="left" alt="" css-class="sct  sk pr-16 pl-16 " fluid-on-mobile="true" height="auto" href="https://kindatakoma.com/" padding="0" src="img/a37fe63e133094fdb633c489d4bf386b.jpg" width="485px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0">
+      <mj-column padding="0">
+        <mj-image align="left" alt="" css-class="sct  sk pr-16 pl-16 " fluid-on-mobile="true" height="auto" href="https://kindatakoma.com/" padding="0" src="img/fa2e13de506d055117a7732b329dc6b2.jpg" width="485px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0">
+      <mj-column padding="0">
+        <mj-image align="left" alt="" css-class="sct  sk pr-16 pl-16 " fluid-on-mobile="true" height="auto" href="https://kindatakoma.com/" padding="0" src="img/a2fbb9436f56a577c4cc19d02b20efde.jpg" width="485px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" border-radius="0" border="none" css-class="sct  pr-16 pl-16 " padding="16px 16px 16px 16px" text-align="left">
+      <mj-group direction="ltr" width="100%">
+        <mj-column background-color="transparent" border="none" css-class="m cl  " vertical-align="middle" width="48%">
+          <mj-image align="left" alt="" border-radius="0" css-class="img  " fluid-on-mobile="false" padding-bottom="0" padding="0" src="img/095a40f0ab48d8c443cd981a51756a5e.jpg" width="74px"></mj-image>
+        </mj-column>
+        <mj-column css-class="gtr" padding="0" width="3%">
+
+        </mj-column>
+        <mj-column background-color="transparent" border="none" css-class="cl  " vertical-align="middle" width="48%">
+          <mj-navbar align="right" css-class="nvb  s-8 ">
+            <mj-navbar-link css-class="nbl  " font-family="Roboto, Arial, sans-serif" href="#insertUrlLink" line-height="0" padding-bottom="0" padding-left="0" padding-right="0" padding-top="0" padding="0" text-transform="none">
+              <span style="mso-line-height-rule: exactly;font-size:12px;font-family:Roboto, Arial, sans-serif;font-weight:400;color:#777777;line-height:14px;text-decoration:underline;">View in the browser</span>
+            </mj-navbar-link>
+          </mj-navbar>
+        </mj-column>
+        <mj-column padding="0" width="0%">
+
+        </mj-column>
+      </mj-group>
+    </mj-section>
+  </mj-body>
+</mjml>
